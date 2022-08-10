@@ -4,7 +4,7 @@
 
 |                    **Title**                    |           **Status**           |                   **Links**                    | **Involved** | **Contact** | **Deadline** |
 |:-----------------------------------------------:|:------------------------------:|:----------------------------------------------:|:------------:|:-----------:|:------------:|
-|     [Auto Channel Masking](MiV-AutoMasking)     | ![completed][badge-completed]  | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |   @jihugo    |  @skim449   | (Tentative)  |
+|     [Auto Channel Masking](MiV-AutonomousChannelMasking)     | ![completed][badge-completed]  | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |   @jihugo    |  @skim449   | (Tentative)  |
 | [Spike Classification](MiV-SpikeClassification) | ![work in progress][badge-wip] | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |   @jihugo    |  @skim449   | (Tentative)  |
 |         Abnormally and Event Detection          |                                | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |              |             |              |
 |               Adaptive Filtering                |                                | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |              |             |              |
