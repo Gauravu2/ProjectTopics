@@ -9,11 +9,19 @@
 |            Abnormally and Event Detection            |                                      | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |              |             |              |
 |                  Adaptive Filtering                  |                                      | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |              |             |              |
 |           Open Sound Control (OSC) Plugin            |                                      | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |              |             |              |
+|           Optogenetic Experiments Simulator          |                                      | [MiV-Simulator](https://github.com/GazzolaLab/MiV-Simulator) |              | @gauravu2   |              |
+|           Microelectrode Array Fabrication         |                                      | [MiV-OH] |              | @xzhan139  |              |
+|           Printed Circuit Board Design         |                                      | [MiV-OH] |              | @xzhan139  |              |
+|           Simultaneous Stimulation + Recording Module        |                                      | [MiV-OH] |              | @xzhan139  |              |
+
+
+
 
 ### Contact
 
 - gauravu2: Gaurav Upadhyay (gauravu2@illinois.edu)
 - skim449: Seung Hyun Kim (skim449@illinois.edu)
+- xzhan139: Dr. Xiaotian Zhang (xzhan139@illinois.edu)
  
 <!-- Hyperlinks -->
 
