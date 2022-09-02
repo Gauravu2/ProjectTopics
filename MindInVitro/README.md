@@ -10,6 +10,9 @@
 |                  Adaptive Filtering                  |                                      | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |              |             |              |
 |           Open Sound Control (OSC) Plugin            |                                      | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |              |             |              |
 |           Optogenetic Experiments Simulator          |                                      | [MiV-Simulator](https://github.com/GazzolaLab/MiV-Simulator) |              | @gauravu2   |              |
+|           Modal Decomposition for Information Theory          |                                      | [MiV-OS](https://github.com/GazzolaLab/MiV-OS) |              | @gauravu2   |              |
+|           Programmable CAD of Microelectrode Arrays (MEAs)        |                                      | [MiV-OH] |              | @gauravu2   |              |
+|          3D printing for biocompatible well designs          |                                      | [MiV-OH] |              | @gauravu2   |              |
 |           Microelectrode Array Fabrication         |                                      | [MiV-OH] |              | @xzhan139  |              |
 |           Printed Circuit Board Design         |                                      | [MiV-OH] |              | @xzhan139  |              |
 |           Simultaneous Stimulation + Recording Module        |                                      | [MiV-OH] |              | @xzhan139  |              |
