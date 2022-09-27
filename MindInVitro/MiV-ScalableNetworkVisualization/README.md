@@ -5,13 +5,25 @@
 
 </div>
 
+## Tags
+
+- Graph Analysis / Graph Theory
+- Network Theory
+- Data/Network Visualization
+
 ## Topic Description
 
 This project involves developing pipeline that visualizes large-scale [directed graph](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model) in a form that makes a neural-connectivity/activity easier to interpret, analyze, and debug. The graph is expected to be hierarchically structured and dynamically varying.
 
 ## References
 
-- https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6691629
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5114701/
+  - Graph Analysis
+  
+## Other Similar Examples
+
+- Traffic Analysis
+  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6691629
   - http://people.se.cmich.edu/liao1q/papers/ldav12.pdf
 
 ## Required Skill
