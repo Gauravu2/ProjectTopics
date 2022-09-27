@@ -16,7 +16,7 @@
 |           Microelectrode Array Fabrication           |                                      |                           [MiV-OH]                           |              |  @xzhan139  |              |
 |             Printed Circuit Board Design             |                                      |                           [MiV-OH]                           |              |  @xzhan139  |              |
 |     Simultaneous Stimulation + Recording Module      |                                      |                           [MiV-OH]                           |              |  @xzhan139  |              |
-|                  MCB File Converter                  |                                      |        [MiV-OS](https://github.com/GazzolaLab/MiV-OS)        |              |  @skim449   |              |
+|        [MCS File Converter](MiV-MCSConverter)        |                                      |        [MiV-OS](https://github.com/GazzolaLab/MiV-OS)        |              |  @skim449   |              |
 |                                                      |                                      |                                                              |              |             |              |
 
 ### Contact

@@ -1,5 +1,5 @@
 <div align="center">
-<h1> MiV MCB file format converter </h1>
+<h1> MiV MCS file format converter </h1>
 </div>
 
 ## Topic Description
